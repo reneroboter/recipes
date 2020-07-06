@@ -1,0 +1,8 @@
+{
+  "aliases": [
+    "hello", "world"
+  ],
+  "copy-from-recipe": {
+    "./": "%ROOT_DIR%"
+  }
+}
